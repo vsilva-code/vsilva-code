@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Valdinéia Silva 👩🏽
 -👩🏽‍💻 Desenvolvedora Full Stack Jr
--💻 Atualmente estudando Java e Angular
+-💻 Atualmente estudando Java e QA
 
 <div align="center">
   <a href="https://github.com/vsilva-code"><br><a href="https://www.linkedin.com/in/valdineiads/">
