@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Valdinéia Silva 👩🏽
 -👩🏽‍💻 Desenvolvedora Jr.
--💻 Atualmente estudando a stack JS.
+-💻 Atualmente estudando Python.
 
 <div align="center">
   <a href="https://github.com/vsilva-code"><br><a href="https://www.linkedin.com/in/valdineiads/">
